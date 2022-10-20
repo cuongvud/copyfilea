@@ -1,0 +1,5 @@
+
+
+[remote]
+node1 ansible_host=14.225.44.71 ansible_user=root ansible_password=2011
+node2 ansible_host=123.31.39.201 ansible_user=root ansible_password=2011
